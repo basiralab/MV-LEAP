@@ -19,7 +19,7 @@ This work has been published in the Journal of Neuroscience Methods 2019. MV-LEA
 
 More details can be found at: https://www.sciencedirect.com/science/article/pii/S016502701930202X) or https://www.researchgate.net/publication/334162522_Multi-View_Learning-Based_Data_Proliferator_for_Boosting_Classification_Using_Highly_Imbalanced_Classes
 
-In this repository, we release the MV-LEAP source code trained and tested in a simulated heterogeneous multi-view dataset drawn from 4 Gaussian distributions as shown below:
+In this repository, we release the MV-LEAP source code trained and tested on a simulated heterogeneous multi-view dataset drawn from 4 Gaussian distributions as shown below:
 
 
 ![Simulated heterogeneous multi-view dataset](http://basira-lab.com/mvleap_1/)
