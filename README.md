@@ -67,7 +67,7 @@ Smote_func: includes data proliferation code.
 # License
 Our code is released under MIT License (see LICENSE file for details).
 
-# Please cite the following paper when using HADA
+# Please cite the following paper when using MV-LEAP
 
 @article{graa2019multi,<br/>
   title={Multi-view learning-based data proliferator for boosting classification using highly imbalanced classes},<br/>
