@@ -55,6 +55,8 @@ In order to use our framework, you need to provide:
 The input data should have (.mat) format and needs to be loaded using the matlab load function. 
 
 # Run the code
+First unzip both: tensor_toolbox-master.zip and Bib.zip files.
+
 To test our code, run the demo: MV_LEAP_demo.m
 
 A brief description of the script files: 
