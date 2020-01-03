@@ -1,5 +1,5 @@
 # MV-LEAP
-Multi-View LEArning-based data Proliferator (MV-LEAP) for boosting classification using highly imbalanced classes, created by by Olfa Graa.
+Multi-View LEArning-based data Proliferator (MV-LEAP) for boosting classification using highly imbalanced classes, created by Olfa Graa.
 
 Please contact olfa.graa@gmail.com for inquiries. Thanks.
 
@@ -8,10 +8,11 @@ Please contact olfa.graa@gmail.com for inquiries. Thanks.
 # Introduction
 
 This work has been published in the Journal of Neuroscience Methods 2019. MV-LEAP is a framework for boosting the classification of imbalanced multi-view data. MV-LEAP comprises two key steps addressing two major machine learning problems in classification tasks:
-Issue 1: Training data imbalance.  
-Proposed solution: manifold learning-based proliferator, which enables to generate synthetic data for each view, is proposed to handle imbalanced data.
-Issue 2: Heterogeneity of the input multi-view data to learn from. 
-Proposed solution: a multi-view manifold data alignment leveraging tensor canonical correlation analysis is proposed to map all original (i.e., ground truth) and proliferated (i.e., synthesized) views into a shared subspace where their distributions are aligned for the target classification task.
+**Issue 1: Training data imbalance.**  
+**Proposed solution ==>** Manifold learning-based proliferator, which enables to generate synthetic data for each view, is proposed to handle imbalanced data.
+
+**Issue 2: Heterogeneity of the input multi-view data to learn from.**
+**Proposed solution ==>** A multi-view manifold data alignment leveraging tensor canonical correlation analysis is proposed to map all original (i.e., ground truth) and proliferated (i.e., synthesized) views into a shared subspace where their distributions are aligned for the target classification task.
 More details can be found at: https://www.sciencedirect.com/science/article/pii/S016502701930202X) or https://www.researchgate.net/publication/334162522_Multi-View_Learning-Based_Data_Proliferator_for_Boosting_Classification_Using_Highly_Imbalanced_Classes
 
 In this repository, we release the MV-LEAP source code trained and tested in a simulated heterogeneous multi-view dataset drawn from 4 Gaussian distributions as shown below:
