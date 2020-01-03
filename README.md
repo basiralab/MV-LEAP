@@ -60,11 +60,11 @@ First unzip both: tensor_toolbox-master.zip and Bib.zip files.
 
 To test our code, run the demo: MV_LEAP_demo.m
 
-A brief description of the script files: 
-MV_learning.m: includes the main code of MV-LEAP.
-mv_leap_figures: plots the results.
-MV_LEAP_func: runs MV-LEAP functions.
-Smote_func: includes data proliferation code.
+A brief description of the script files: <br/>
+MV_learning.m: includes the main code of MV-LEAP.<br/>
+mv_leap_figures: plots the results.<br/>
+MV_LEAP_func: runs MV-LEAP functions.<br/>
+Smote_func: includes data proliferation code.<br/>
 
 
 # License
