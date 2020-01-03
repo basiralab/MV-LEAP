@@ -16,6 +16,7 @@ This work has been published in the Journal of Neuroscience Methods 2019. MV-LEA
 **Issue 2: Heterogeneity of the input multi-view data to learn from.**
 
 **Proposed solution ==>** A multi-view manifold data alignment leveraging tensor canonical correlation analysis is proposed to map all original (i.e., ground truth) and proliferated (i.e., synthesized) views into a shared subspace where their distributions are aligned for the target classification task.
+
 More details can be found at: https://www.sciencedirect.com/science/article/pii/S016502701930202X) or https://www.researchgate.net/publication/334162522_Multi-View_Learning-Based_Data_Proliferator_for_Boosting_Classification_Using_Highly_Imbalanced_Classes
 
 In this repository, we release the MV-LEAP source code trained and tested in a simulated heterogeneous multi-view dataset drawn from 4 Gaussian distributions as shown below:
@@ -30,11 +31,11 @@ The classification results by comparison methods and MV-LEAP (ours) are displaye
 # Installation
 
 This framework was developed on Matlab R2018a. It uses the following Matlab packages:
-tensor_toolbox_2.6
-SMOTE
-SIMLR
-PCA
-TCCA
+tensor_toolbox_2.6 <br/>
+SMOTE <br/>
+SIMLR <br/>
+PCA <br/>
+TCCA <br/>
 
 You also need to use the packages in the bib folder included in the following repositories: `bib` and `bib/src/`.
 To use the bib codes, you need to load the bib path in the MV-LEAP code. Use the function: addpath('bib/')
