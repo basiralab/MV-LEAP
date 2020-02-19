@@ -1,7 +1,7 @@
 # MV-LEAP
 Multi-View LEArning-based data Proliferator (MV-LEAP) for boosting classification using highly imbalanced classes, created by Olfa Graa.
 
-Please contact olfa.graa@gmail.com for inquiries. Thanks.
+Please contact olfa.graa@gmail.com for inquiries. Thanks. Click here to display the main figure: http://basira-lab.com/mvleap_0/
 
 ![MV-LEAP pipeline](http://basira-lab.com/mvleap_0/)
 
